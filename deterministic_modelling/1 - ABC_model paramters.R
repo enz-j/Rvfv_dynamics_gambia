@@ -1,7 +1,7 @@
 # This script implements the Approximate Bayesian Computation (ABC) analysis to estimate parameter values of the 
 # epidemiological model by fitting to observed seroprevalence data for the three cattle subpopulations
 
-# Clear the
+# Clear the environment
 
 rm(list = ls())
 
