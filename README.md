@@ -7,7 +7,7 @@ Essa Jarra, Divine Ekwem, Daniel T. Haydon
 # Overview
 This repository provides code for modelling RVF dynamics in transhumant cattle populations in The Gambia. The models integrate sero-epidemiological data and ecological factors influencing disease transmission.
 # Data
-The dataset includes sero-epidemiological information from Jarra et al., 2025 (doi:10.1101/2025.03.14.640388). Estimated weekly force of infection (FOI) values for each eco-region, used to predict age-seroprevalence curves, are provided in _lambda_vec_.
+The study is based on sero-epidemiological data from Jarra et al., 2025 (doi:10.1101/2025.03.14.640388). Estimated weekly force of infection (FOI) values for each eco-region, used to predict age-seroprevalence curves, are provided in _lambda_vec_.
 # Analysis
 •	Deterministic Model: R scripts for deterministic simulations of RVF transmission are available in the deterministic directory.
 •	Stochastic Model: The stochastic directory contains R code for stochastic simulations incorporating demographic variability.
