@@ -1,7 +1,7 @@
 # Impact
 This repository contains the data and source code for the study:
 Essa Jarra, Divine Ekwem, Daniel T. Haydon
-"Rift Valley fever virus dynamics in a transhumant cattle system in The Gambia."
+"Rift Valley fever virus dynamics in a transhumant cattle system in The Gambia." eLife2026;14:RP107346 DOI: https://doi.org/10.7554/eLife.107346.3
 Our study addresses a key gap in Rift Valley fever epidemiology in the West African Sahel, where transmission remains poorly understood. We develop deterministic and stochastic models to assess RVF virus dynamics in transhumant cattle, offering insights into disease persistence, livestock management, zoonotic risk, and control strategies.
 # Overview
 This repository provides code for modelling RVF dynamics in transhumant cattle populations in The Gambia. The models integrate sero-epidemiological data and ecological factors influencing disease transmission.
